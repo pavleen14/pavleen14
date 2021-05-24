@@ -1,4 +1,4 @@
-### <p align="center"> Hello World! I am Pavleen (programmer/she/her/hers) 👋 </p>
+### <p align="center"> Hello World!👋 I am Pavleen (programmer/she/her/hers)  </p>
 <p align="center"> 𝗶𝗳( !== took coffee){ <br>
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ ');
 } </p>
