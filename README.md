@@ -41,7 +41,7 @@
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 </p>
 
-<br>
+<br><br>
 
 ![Pavleen Kaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&theme=radical)
 
