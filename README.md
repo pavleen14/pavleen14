@@ -43,7 +43,7 @@
 
 <br><br>
 
-![Pavleen Kaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&theme=radical)
+![Pavleen Kaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical)
 
 
 
