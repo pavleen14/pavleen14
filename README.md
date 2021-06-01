@@ -47,13 +47,22 @@
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 </p>
 
+
 ## :crossed_fingers:Stats: <br>
 
-![Pavleen Kaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical)
+<div align = center>
+ <img src = "https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical">
+ </div>
+ 
+ 
 
-## :zany_face:A joke for you: <br>
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## :zany_face:A programming joke for you: <br>
+<p align="center">
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+</p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
