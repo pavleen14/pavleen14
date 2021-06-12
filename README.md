@@ -55,12 +55,12 @@
  </div>
  
  
-
+<!--
 ## :zany_face:A programming joke for you: <br>
 <p align="center">
-<!-- HTML -->
+HTML
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+-->
 </p>
 <!--
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />-->
