@@ -17,8 +17,8 @@
 
 
 <p align="center">
- <a href="https://twitter.com/pavleeeeeeen" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a> <b>--</b>
- <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> <b>--</b>
+ <a href="https://twitter.com/pavleeeeeeen" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a>&nbsp
+ <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
  <a href="mailto:pavleen1128@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
