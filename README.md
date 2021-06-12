@@ -3,12 +3,6 @@
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ ');
 } </p>
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/pavleen14/pavleen14)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/pavleen14)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/pavleen14)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/pavleen14/pavleen14)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/pavleen14/pavleen14)](https://badges.pufler.dev)-->
-
 <p> Welcome to my profile! I'm a student, an aspiring <a href="https://pavleeeeeen.blogspot.com/">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/">connect</a>!</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
@@ -52,6 +46,13 @@
 
 <div align = center>
  <img src = "https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical">
+ 
+ 
+[![Visits Badge](https://badges.pufler.dev/visits/pavleen14/pavleen14)](https://badges.pufler.dev) 
+[![Years Badge](https://badges.pufler.dev/years/pavleen14)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/pavleen14)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/pavleen14/pavleen14)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/pavleen14/pavleen14)](https://badges.pufler.dev)
  </div>
  
  
