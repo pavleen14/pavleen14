@@ -42,18 +42,27 @@
 </p>
 
 
-## :crossed_fingers:Stats: <br>
+## :crossed_fingers:Some Stats: <br>
 
 <div align = center>
- <img src = "https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical">
  
  
 [![Visits Badge](https://badges.pufler.dev/visits/pavleen14/pavleen14)](https://badges.pufler.dev) 
 [![Years Badge](https://badges.pufler.dev/years/pavleen14)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/pavleen14)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/pavleen14/pavleen14)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/pavleen14/pavleen14)](https://badges.pufler.dev)
- </div>
+
+</div> 
+
+## 😆 A programming joke for you: <br>
+
+<div align = center>
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+</div>
  
  
 <!--
