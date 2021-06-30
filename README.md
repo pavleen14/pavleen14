@@ -11,7 +11,7 @@
 -🌱 I’m a Machine Learning enthusiast. <br>
 -👯 I’m looking to collaborate on anything free and open source. <br>
 -💬 Brainstorm with me over tech, algorithms, career, and lame jokes 😉.<br>
--⚡ Fun fact: I have expertise in Web & API testing too!
+-⚡ Fun fact: I have expertise in Web & API testing too(Manual & Automation both)!
 
 ## ✉️ Find me on:
 
