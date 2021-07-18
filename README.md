@@ -3,7 +3,7 @@
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ ');
 } </p>
 
-<p> Welcome to my profile! I'm a student, an aspiring <a href="https://pavleeeeeen.blogspot.com/">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/">connect</a>!</p>
+<p> Welcome to my <a href = "https://pavleen14.github.io/pavleen-kaur/"> profile </a>! I'm a student, an aspiring <a href="https://pavleeeeeen.blogspot.com/">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/">connect</a>!</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
