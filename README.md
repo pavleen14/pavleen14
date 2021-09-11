@@ -53,7 +53,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/pavleen14)](https://badges.pufler.dev)
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavleen14)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavleen14&theme=radical)](https://git.io/streak-stats)
 
 
 </div> 
