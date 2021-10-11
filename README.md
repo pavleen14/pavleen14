@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
--🔭 I’m currently working on something cool 😉 <br>
+-🔭 I’m currently learning something new 😉 <br>
 -🌱 I’m a Machine Learning enthusiast. <br>
 -👯 I’m looking to collaborate on anything free and open source. <br>
 -💬 Brainstorm with me over tech, algorithms, career, and lame jokes 😉.<br>
