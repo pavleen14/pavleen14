@@ -58,7 +58,7 @@
  
  
  
-# [![Pavleen's github activity graph](https://activity-graph.herokuapp.com/graph?username=pavleen14&theme=redical)](https://github.com/pavleen14/github-readme-activity-graph)
+<!-- [![Pavleen's github activity graph](https://activity-graph.herokuapp.com/graph?username=pavleen14&theme=redical)](https://github.com/pavleen14/github-readme-activity-graph)-->
 
 
 </div> 
