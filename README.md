@@ -47,11 +47,11 @@
 <div align = center>
 <img src = "https://github-readme-stats.vercel.app/api?username=pavleen14&show_icons=true&count_private=true&theme=radical">
  
- 
+ <!--
 [![Visits Badge](https://badges.pufler.dev/visits/pavleen14/pavleen14)](https://badges.pufler.dev) 
 [![Years Badge](https://badges.pufler.dev/years/pavleen14)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/pavleen14)](https://badges.pufler.dev)
-[![HitCount](https://hits.dwyl.com/pavleen14/https://githubcom/pavleen14/pavleen14/.svg?style=flat-square)](http://hits.dwyl.com/pavleen14/https://githubcom/pavleen14/pavleen14/)
+[![HitCount](https://hits.dwyl.com/pavleen14/https://githubcom/pavleen14/pavleen14/.svg?style=flat-square)](http://hits.dwyl.com/pavleen14/https://githubcom/pavleen14/pavleen14/)-->
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavleen14&theme=radical)](https://git.io/streak-stats)
  
