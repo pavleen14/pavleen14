@@ -3,12 +3,12 @@
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ ');
 } </p>
 
-<p> Welcome to my <a href = "https://pavleen14.github.io/pavleen-kaur/"> profile </a>! I'm a student, an aspiring <a href="https://pavleeeeeen.blogspot.com/">writer</a>, part-time coder and a full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/">connect</a>!</p>
+<p> Welcome to my <a href = "https://pavleen14.github.io/pavleen-kaur/"> profile </a>! I'm an Engineer, AI Enthusiast, technical content writer <a href="https://medium.com/@k.pavleen/about">writer</a>, part-time coder and a full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleenkaur14/">connect</a>!</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 -🔭 I’m currently learning something new 😉 <br>
--🌱 I’m a Machine Learning enthusiast. <br>
+-🌱 I’m a AI enthusiast. <br>
 -👯 I’m looking to collaborate on anything free and open source. <br>
 -💬 Brainstorm with me over tech, algorithms, career, and lame jokes 😉.<br>
 -⚡ Fun fact: I have expertise in Web & API testing too(Manual & Automation both)!
@@ -17,8 +17,8 @@
 
 
 <p align="center">
- <a href="https://twitter.com/pavleeeeeeen" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a>&nbsp
- <a href="https://www.linkedin.com/in/pavleen-kaur-9a23a6185/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
+ <a href="https://medium.com/@k.pavleen/about" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="40" style="vertical-align:top; margin:4px"> </a>&nbsp
+ <a href="https://www.linkedin.com/in/pavleenkaur14/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> &nbsp
  <a href="mailto:pavleen1128@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
