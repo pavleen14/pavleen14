@@ -3,7 +3,7 @@
 𝗮𝗹𝗲𝗿𝘁(' 𝗚𝗼 𝗴𝗲𝘁 𝗰𝗼𝗳𝗳𝗲𝗲 ❤️ ');
 } </p>
 
-<p> Welcome to my <a href = "https://pavleen14.github.io/pavleen-kaur/"> profile </a>! I'm an Engineer, AI Enthusiast, technical content writer <a href="https://medium.com/@k.pavleen/about">writer</a>, part-time coder and a full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleenkaur14/">connect</a>!</p>
+<p> Welcome to my <a href = "https://pavleen14.github.io/pavleen-kaur/"> profile </a>! I'm an Engineer, AI Enthusiast, technical content <a href="https://medium.com/@k.pavleen/about">writer</a>, part-time coder and a full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/pavleenkaur14/">connect</a>!</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
